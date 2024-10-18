@@ -1,0 +1,30 @@
+{
+  "name": "ERC314",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-chai-matchers": "^2.0.6",
+    "@nomicfoundation/hardhat-ethers": "^3.0.5",
+    "@nomicfoundation/hardhat-verify": "^2.0.5",
+    "@typechain/ethers-v6": "^0.5.1",
+    "@typechain/hardhat": "^9.1.0",
+    "ethers": "^6.11.1",
+    "hardhat": "^2.22.2",
+    "hardhat-abi-exporter": "^2.10.1",
+    "hardhat-contract-sizer": "^2.10.0",
+    "hardhat-gas-reporter": "^2.1.1",
+    "install": "^0.13.0",
+    "npm": "^10.5.2",
+    "ts-node": "^10.9.2",
+    "typechain": "^8.3.2"
+  },
+  "dependencies": {
+    "@ethersproject/contracts": "^5.7.0",
+    "@ethersproject/networks": "^5.7.1",
+    "@openzeppelin/contracts": "^5.0.2",
+    "@types/chai": "^4.3.14",
+    "@types/jest": "^29.5.12",
+    "@types/mocha": "^10.0.6",
+    "@types/node": "^20.12.7",
+    "dotenv": "^16.4.5",
+    "solidity-coverage": "^0.8.12"
+  }
+}
